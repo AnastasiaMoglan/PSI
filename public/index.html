@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Starlog</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>✦ Starlog</h1>
+    <p>Every habit you complete lights up a star. Keep the streak alive to connect them.</p>
+  </header>
+
+  <main>
+    <canvas id="sky" width="900" height="420"></canvas>
+
+    <form id="habit-form">
+      <input id="habit-name" type="text" placeholder="New habit (e.g. Read)" required />
+      <button type="submit">Add habit</button>
+    </form>
+
+    <ul id="habit-list"></ul>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
