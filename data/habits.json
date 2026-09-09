@@ -1,0 +1,26 @@
+[
+  {
+    "id": "28bdfd41-30ae-4dca-a0d3-3792aa9ca6e4",
+    "name": "make breakfast",
+    "streak": 1,
+    "lastDoneDate": "2026-09-09"
+  },
+  {
+    "id": "defeb5aa-24a7-44e1-a862-d8e2d0403c3a",
+    "name": "make the bed",
+    "streak": 1,
+    "lastDoneDate": "2026-09-09"
+  },
+  {
+    "id": "fa1fc9c0-2510-4b91-80ed-9e9e2c2fef91",
+    "name": "go to university",
+    "streak": 1,
+    "lastDoneDate": "2026-09-09"
+  },
+  {
+    "id": "536732bb-d336-4229-9184-438aa9d74544",
+    "name": "eat healthier",
+    "streak": 1,
+    "lastDoneDate": "2026-09-09"
+  }
+]
